@@ -1,5 +1,5 @@
 """
-ASGI toor for config project.
+ASGI tour for config project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

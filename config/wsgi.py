@@ -1,5 +1,5 @@
 """
-WSGI toor for config project.
+WSGI tour for config project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
